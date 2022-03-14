@@ -1,0 +1,1 @@
+I used loops instead of vectorization to implement CNN. So the model got slow and heavy, I could not train the whole dataset, I had to train a fraction of the datasets. Hence the performance of the model is poor.
